@@ -1,0 +1,39 @@
+I mayuscula para insertar al principio de la linea this is vim and this is awesome a para insertar despues de las letras determinadas A mayuscula para insertar al final de la linea
+con w se puede saltar a la palabra siguiente y con b se puede saltar a la palabra anterior
+O mayuscula para insertar arriba
+I can write text in vimsdfsdfsdf very mussssssch like it was another text editor
+estoy escribiendo algun texto
+a == condicion:
+o minuscula para insertar abajo de la linea actual
+a == condicion:
+a == condicion:
+cambia el contenido de una linea
+	a == condicion:
+	a == condicion:
+	a == condicion:
+	a == condicion:
+	a == condicion:
+	funciona despues
+
+	a == condicion:
+
+djsdjsjdsjkkd
+bye!
+comandos interesantes:
+ciw reemplaza toda una palabra
+diw borra toda una palabra
+ci) borra el contenido de un barentesis
+n ctrl + r rehace los ultimos n cambios eliminados
+n u deshace los ultimos n cambios realizados
+cw reemplaza una una palabra desde el punto en el que se esta hasta el final
+dw borra toda una palabra desde la posicion actual hasta el final
+c% cambia el contenido de una llave
+con y puedo copiar las lineas y con p puedo pegarlas p las pega antes de la posicion actual y P las pega despues de la posicion actual yy copia una linea, 
+y5w copia 5 palabra 5yy copia 5 lineas y 9p pega el contenido 9 veces
+v sirve para entrar al modo visual
+shift + v se puede entrar a un modo visual de linea
+ctrl + v se puede entrar a un modo en bloque 
+con zz puedo centrar la vista para que la ultima linea aparezca escrita en el centro en la consola
+shift identa las lineas desde el visual mode
+informacion para configurar vim
+https://quakkels.com/posts/configuring-vim-when-using-git-bash/
